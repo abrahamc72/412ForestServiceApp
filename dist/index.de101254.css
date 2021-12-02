@@ -1,0 +1,76 @@
+section {
+    display: none;
+  }
+  section:target {
+    display: block;
+  }
+
+
+#Home {
+    border-radius: 6px;
+    justify-content: center;
+    max-width: 500px;
+    background: #00502f;
+    margin:0 auto;
+    box-shadow: -5px 5px #002415;
+    
+}
+#Home2 {
+    border-radius: 6px;
+    justify-content: center;
+    max-width: 500px;
+    background: #00502f;
+    margin:0 auto;
+    box-shadow: -5px 5px #002415;
+    
+}
+
+.smallpagebox{
+    border-radius: 6px;
+    justify-content: center;
+    width:500px;
+    height:625px;
+    max-width: 500px;
+    background: #00502f;
+    margin:0 auto;
+    box-shadow: -5px 5px #002415;
+    
+}
+
+.simplepagebox{
+
+    border-radius:6px;
+    justify-content:center;
+    max-width:1000px;
+    background: #eeeeee;
+    margin: 0 auto;
+    box-shadow: -5px 5px #939597;
+}
+
+.pagecontent
+{
+    justify-content: center;
+}
+
+.btn-outline-primary, .btn-outline-primary:active, .btn-outline-primary:visited {
+    background-color: #ffd200 !important;
+    border-color:#002415 !important;
+    border:2px solid!important;
+    color:black !important;
+}
+
+.btn-outline-primary:hover{
+
+    background-color:#c4a000 !important;
+}
+
+.row {
+    border: 0px solid;
+    border-radius: 3px;
+    border-color:#1e73be;
+}
+.col{
+    border: 0px solid;
+}
+  
+/*# sourceMappingURL=index.de101254.css.map */
