@@ -1,4 +1,4 @@
-# 412ForestServiceApp
+# 412 Forest Service App
 
 Due to the vast amount of files in the node.js /js dependencies files and github.com's upload limit the app's source code could only be uploaded in a zip format  
 
