@@ -1,11 +1,11 @@
 # 412ForestServiceApp
 
-Due to the vast amount of files in the node.js /js dependencies files and github.com's upload limit the app's source code could only be uploaded in a zip format
+Due to the vast amount of files in the node.js /js dependencies files and github.com's upload limit the app's source code could only be uploaded in a zip format  
 
 This application has only been tested on Windows and required node.js to be installed.
-After unzipping and installing node.js, StartApp.bat should be used to start it.
+After unzipping and installing node.js, StartApp.bat should be used to start it.  
 
-How to use:
+How to use:  
 	1.Install node.js from https://nodejs.org/en/download/  
 	2.Make sure that npm is a runnable command (node js should added to path in installation)  
 	3.When node.js is installed properly, StartApp.bat should open your browser and start a node.js server.  
