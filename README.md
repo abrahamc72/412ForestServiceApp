@@ -2,7 +2,8 @@
 
 A mockup program that utilizes a PostgreSQL database
 
-![image](https://user-images.githubusercontent.com/52030144/214472253-d10c1267-35bc-49f8-b6d6-0dd4e7ec69da.png)
+![image](https://user-images.githubusercontent.com/52030144/214472253-d10c1267-35bc-49f8-b6d6-0dd4e7ec69da.png) ![image](https://user-images.githubusercontent.com/52030144/214472445-e3c72d37-9077-41a6-831d-9a70afc9067d.png)
+
  
 
 This application has only been tested on Windows and required node.js to be installed.
