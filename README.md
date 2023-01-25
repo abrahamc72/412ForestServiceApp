@@ -1,6 +1,9 @@
 # 412 Forest Service App
 
-Due to the vast amount of files in the node.js /js dependencies files and github.com's upload limit the app's source code could only be uploaded in a zip format  
+A mockup program that utilizes a PostgreSQL database
+
+![image](https://user-images.githubusercontent.com/52030144/214472253-d10c1267-35bc-49f8-b6d6-0dd4e7ec69da.png)
+ 
 
 This application has only been tested on Windows and required node.js to be installed.
 After unzipping and installing node.js, StartApp.bat should be used to start it.  
